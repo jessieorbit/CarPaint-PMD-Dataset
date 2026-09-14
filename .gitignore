@@ -1,0 +1,18 @@
+# Full dataset files are distributed through GitHub Releases, not Git history.
+/images/
+/labels/
+/exports/
+
+# Locally generated release archives and checksums.
+/*.zip
+/SHA256SUMS.txt
+
+# Python cache files.
+__pycache__/
+*.py[cod]
+
+# Common editor and operating-system files.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

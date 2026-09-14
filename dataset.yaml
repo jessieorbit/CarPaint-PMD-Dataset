@@ -1,0 +1,19 @@
+﻿train: train.txt
+val: val.txt
+
+representations:
+  AP: images/AP
+  sin0: images/sin0
+  sin1: images/sin1
+  sin2: images/sin2
+  sin3: images/sin3
+labels: labels
+
+names:
+  0: breakage
+  1: inclusion
+  2: scratch
+  3: crater
+  4: run
+  5: bulge
+  6: condensate
